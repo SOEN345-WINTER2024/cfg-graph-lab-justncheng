@@ -2,6 +2,8 @@
 
 [Lab 7.pdf](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-justncheng/files/14541271/Lab.7.pdf)
 
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-justncheng/assets/93218772/e1cf7f2d-30f8-4d96-a9cd-653c3a409a10)
+
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/noidsirius/SootTutorial)
